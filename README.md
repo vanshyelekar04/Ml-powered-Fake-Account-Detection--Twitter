@@ -1,5 +1,3 @@
-Here’s a README file that you can use for your Git repository. It’s written with the assumption that your repository includes the required files and the necessary data as you mentioned. I've also referred to the example repository you shared for additional context.
-
 ```markdown
 # Fake Profile Detection in Social Media
 
@@ -122,18 +120,4 @@ This project is licensed under the MIT License.
 For more details, you can explore the project repository:
 
 [GitHub Repository - Ml-powered-Fake-Account-Detection--Twitter](https://github.com/vanshyelekar04/Ml-powered-Fake-Account-Detection--Twitter)
-
----
-
-<a href="https://www.buymeacoffee.com/cognitivecamp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 ```
-
-### Key Points Included:
-- **Project Description**: Overview of the fake account detection system.
-- **Setup Instructions**: Step-by-step guide to installing dependencies, setting up the virtual environment, and running the code.
-- **Usage**: Instructions for running the code using either Jupyter/IPython notebook or Python script.
-- **Files Structure**: Explanation of important files and directories in the repository.
-- **Contributing**: Guidelines for contributing to the project.
-- **Acknowledgments and References**: Crediting the libraries used and linking to the original repository for more context.
-
-Let me know if you need further adjustments!
