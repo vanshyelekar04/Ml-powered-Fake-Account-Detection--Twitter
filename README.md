@@ -1,4 +1,3 @@
-```markdown
 # Fake Profile Detection in Social Media
 
 This project leverages machine learning techniques to identify fake profiles on social media platforms, with a primary focus on Twitter. The system uses web scraping, behavioral analysis, and machine learning algorithms to detect fake accounts, minimize online fraud, reduce misinformation, and enhance privacy.
